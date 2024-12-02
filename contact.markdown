@@ -5,6 +5,6 @@ If you have questions, feedback, or just want to say hello, feel free to reach o
 
 ### 📲 Social Media:
 
-- **LinkedIn**: [![LinkedIn]](https://www.linkedin.com/in/srivignesh-kavle/)
-- **Discord**: [![Discord]}(https://discord.com/channels/srivignesh02)
-- **Discord**: [![GitHub]]}(https://github.com/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/srivignesh-kavle/)
+- **Discord**: [Discord](https://discord.com/channels/srivignesh02)
+- **Discord**: [GitHub](https://github.com/)
