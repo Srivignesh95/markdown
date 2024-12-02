@@ -7,3 +7,11 @@ I've designed this website using WordPress, implementing the client's Figma desi
 **🖼️ Image:**
 
 ![Project1](images/Mockup-ODN.jpg)
+
+### 1. 💻 We Need To Talk
+
+I've crafted this responsive website by implementing HTML5, CSS3, and Bootstrap, faithfully translating the client's Figma design.
+
+**🖼️ Image:**
+
+![Project1](images/Mockup-weneedtotalk.jpg)
